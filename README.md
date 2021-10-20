@@ -32,11 +32,11 @@
 <p align = "center">
   <b>Laptop View</b>
   <br>
-  <img src = "images/LaptopView-Screenshot.png">
+  <img src = "images/Laptop-View-Screenshot.png">
   <br><br>
   <b>Mobile View</b>
   <br>
-  <img src = "images/MobileView-Screenshot.png">
+  <img src = "images/Mobile-View-Screenshot.png">
 </p>
 
 Challenge was to create a ***404 not found page*** following the design given on the website. The page should be responsive.
