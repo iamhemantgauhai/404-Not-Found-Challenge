@@ -36,7 +36,7 @@
   <br><br>
   <b>Mobile View</b>
   <br>
-  <img src = "assets/Screenshot-mobile.jpeg">
+  <img src = "images/MobileView-Screenshot.png">
 </p>
 
 Challenge was to create a ***404 not found page*** following the design given on the website. The page should be responsive.
