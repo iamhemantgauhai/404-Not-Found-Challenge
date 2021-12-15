@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://404-not-found-dev-challenge.netlify.app/" target="_blank">
+    <a href="https://iamhemantgauhai.github.io/404-Not-Found-Challenge/" target="_blank">
       Demo
     </a>
     <span> | </span>
